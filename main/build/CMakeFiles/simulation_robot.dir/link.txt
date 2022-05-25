@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -pthread -rdynamic CMakeFiles/simulation_robot.dir/src/main.cpp.o CMakeFiles/simulation_robot.dir/src/world.cpp.o CMakeFiles/simulation_robot.dir/src/robot.cpp.o CMakeFiles/simulation_robot.dir/src/simulation.cpp.o -o simulation_robot  -lpthread 

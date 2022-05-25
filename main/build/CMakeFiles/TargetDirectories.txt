@@ -1,0 +1,3 @@
+/media/disk_cris/INVESTIGACION/public_repo/multithread-robot-simulation-/main/build/CMakeFiles/rebuild_cache.dir
+/media/disk_cris/INVESTIGACION/public_repo/multithread-robot-simulation-/main/build/CMakeFiles/edit_cache.dir
+/media/disk_cris/INVESTIGACION/public_repo/multithread-robot-simulation-/main/build/CMakeFiles/simulation_robot.dir
