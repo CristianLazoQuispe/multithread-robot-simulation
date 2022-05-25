@@ -47,6 +47,12 @@ I use a dictionary of colors because in the display I can distinguish the moveme
 
         $ ./simulation_robot
 
+<p align="center">
+    <img src="results/setup_tutorial.gif" 
+     width="800" height="600"/>
+</p>
+
+
 
 ## Results
 
@@ -61,7 +67,7 @@ I created 10 robots in different positions and one robot is refused because the 
     robot_10: origin (6,19)   - 'J'
 
 <p align="center">
-    <img src="results/simulation multithread version 02.gif" 
-     width="800" height="600"/>
+    <img src="results/simulacion_multithread.gif" 
+     width="400" height="600"/>
 </p>
 
