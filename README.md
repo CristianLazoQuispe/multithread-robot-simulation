@@ -14,7 +14,7 @@ This project consists in a simulation of robot interaction in 2D space. I have i
 
 <p align="center">
     <img src="results/Robo agents explanation.jpeg" 
-     width="800" height="600"/>
+     width="600" height="400"/>
 </p>
 
 
@@ -26,7 +26,7 @@ I use a dictionary of colors because in the display I can distinguish the moveme
 
 <p align="center">
     <img src="results/code structure.jpeg" 
-     width="800" height="600"/>
+     width="400" height="300"/>
 </p>
 
 
